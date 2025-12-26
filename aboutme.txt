@@ -1,0 +1,4 @@
+﻿Hey, my name is Taveon. I’m a aspiring web developer working toward a career in the tech industry.
+I’ve been developing and honing my skills through personal projects, including interactive components and portfolio work hosted on GitHub Pages. I’m always looking for ways to improve my code, learn new tools, and challenge myself with new ideas.
+My goal is to join a team where I can grow, contribute, and continue learning as a developer.
+
